@@ -1,4 +1,5 @@
-discord.py==2.3.2
-yt-dlp==2024.7.16
-ffmpeg-python==0.2.0
-python-dotenv==1.0.1
+discord.py
+yt-dlp
+pynacl
+python-dotenv
+ffmpeg-downloader
