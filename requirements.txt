@@ -1,5 +1,5 @@
 discord.py
 yt-dlp
+ffmpeg
 pynacl
-python-dotenv
-ffmpeg-downloader
+toml
